@@ -96,7 +96,7 @@ class Rental {
     }
 }
 
-public class Main {
+public class code {
     public static void main(String[] args) {
         Vehicle car = new Car("C001", "Toyota Corolla", 500, 4);
         Vehicle bike = new Bike("B001", "Yamaha R15", 200, true);

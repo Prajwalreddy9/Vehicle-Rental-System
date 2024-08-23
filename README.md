@@ -51,9 +51,3 @@ This is a simple vehicle rental system implemented in Java using Object-Oriented
   - `calculateTotalRent()`: Calculates the total rental amount based on the rental rate and number of days.
   - `displayRentalDetails()`: Displays rental details including customer information, vehicle information, rental days, and total rent.
 
-## Usage
-
-1. **Create Vehicles**:
-   ```java
-   Vehicle car = new Car("C001", "Toyota Corolla", 500, 4);
-   Vehicle bike = new Bike("B001", "Yamaha R15", 200, true);
